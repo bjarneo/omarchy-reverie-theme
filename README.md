@@ -1,11 +1,12 @@
-# Omarchy Serenity Theme
+# Omarchy Reverie Theme
 
-This is the Serenity theme for [Omarchy.org](https://omarchy.org), providing a visually appealing configuration set for your Linux desktop environment.
+Reverie is a simple, elegant, and dark theme for Omarchy.org. It's designed for those moments of deep focus, when the world fades away and all that's left is you and your code.
 
-> A quiet mind, a steady hand,  
-> Across the code, a peaceful land.  
-> No raging seas, no fiery gleam,  
-> Just the calm flow of a gentle stream.  
+> Where sky and shadow softly meet,  
+> the world outside makes its retreat.  
+> The mind, in silent reverie,  
+> is calmed by light it came to see,  
+> and finds itself completely free.  
 
 <p align="center">
   <img src="theme.png" alt="Serenity Theme Preview">

@@ -1,12 +1,12 @@
 return {
 	{
-		"bjarneo/cerulean.nvim",
-		name = "cerulean",
+		"bjarneo/reverie.nvim",
+		name = "reverie",
 	},
 	{
 		"LazyVim/LazyVim",
 		opts = {
-			colorscheme = "cerulean",
+			colorscheme = "reverie",
 		},
 	},
 }
