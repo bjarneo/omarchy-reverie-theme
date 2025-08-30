@@ -9,7 +9,7 @@ Reverie is a simple, elegant, and dark theme for Omarchy.org. It's designed for 
 > and finds itself completely free.  
 
 <p align="center">
-  <img src="theme.png" alt="Serenity Theme Preview">
+  <img src="theme.png" alt="Reverie Theme Preview">
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ Reverie is a simple, elegant, and dark theme for Omarchy.org. It's designed for 
 To install this theme, simply use the `omarchy-theme-install` command:
 
 ```bash
-omarchy-theme-install https://github.com/bjarneo/omarchy-serenity-theme
+omarchy-theme-install https://github.com/bjarneo/omarchy-reverie-theme
 ```
 
 ## X.com
