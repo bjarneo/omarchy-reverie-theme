@@ -24,5 +24,9 @@ To install this theme, simply use the `omarchy-theme-install` command:
 omarchy-theme-install https://github.com/bjarneo/omarchy-reverie-theme
 ```
 
+
+## neovim theme
+https://github.com/bjarneo/reverie.nvim
+
 ## X.com
 [iamdothash](https://x.com/iamdothash)
